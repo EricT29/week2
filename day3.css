@@ -1,0 +1,52 @@
+#red {
+    color: orangered;
+}
+
+.green {
+    color: mediumseagreen;
+}
+
+.big {
+    font-size: 25px;
+    line-height: 30px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+div {
+    height: 100px;
+    width: 100px;
+}
+
+.box-1 {
+    background-color: firebrick;
+}
+
+.box-2 {
+    background-color: steelblue;
+}
+
+body {
+    background-color: darkgray;
+}
+
+#cool-font {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.border {
+    width: 3px;
+    border-style: solid;
+    color: steelblue;
+}
+
+.img {
+    content:url("https://www.extremetech.com/wp-content/uploads/2014/04/bliss-windows-xp-original-640x514.jpg");
+    background-repeat: no-repeat;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
